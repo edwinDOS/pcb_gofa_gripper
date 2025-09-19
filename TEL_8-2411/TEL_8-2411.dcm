@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TEL_8-2411
+D 8 Watt DC/DC converter, industrial, 2:1 input, high power density, 6-side shielded, encapsulated, DIP-16
+K
+F https://tracopower.com/tel8-datasheet/
+$ENDCMP
+#
+#End Doc Library
