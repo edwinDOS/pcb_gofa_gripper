@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 8-215079-0
+#/284177/1558257/2.50/10/2/Connector
+DEF 8-215079-0 J 0 30 Y Y 1 F N
+F0 "J" 750 300 50 H V L CNN
+F1 "8-215079-0" 750 200 50 H V L CNN
+F2 "8-215079-0" 750 100 50 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=4-1773457-1_050_Micro_MaTch&DocType=Data%20Sheet&DocLang=English&PartCntxt=8-215079-0&DocFormat=pdf" 750 0 50 H I L CNN
+F4 "Body Features: Daisy Chain Without | Connector Profile Standard | Primary Product Color Red | Configuration Features: PCB Mount Orientation Vertical | Number of Rows 2 | Number of Positions 10 | Contact Features: PCB Contact Termination Area Plating Material Tin | PCB Contact Termination Area Plating Material Finish Matte | Contact Shape & Form Dual Beam | Contact Mating Area Plating Material Thickness 118.11  196.85 MICIN | Contact Current Rating (Max) 1 AMP | Contact Type Socket | PCB Contact Terminati" 750 -100 50 H I L CNN "Description"
+F5 "" 750 -200 50 H I L CNN "Height"
+F6 "" 750 -300 50 H I L CNN "Farnell Part Number"
+F7 "" 750 -400 50 H I L CNN "Farnell Price/Stock"
+F8 "TE Connectivity" 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "8-215079-0" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 900 0 200 L 50 50 0 0 P
+X 3 3 0 -100 200 R 50 50 0 0 P
+X 4 4 900 -100 200 L 50 50 0 0 P
+X 5 5 0 -200 200 R 50 50 0 0 P
+X 6 6 900 -200 200 L 50 50 0 0 P
+X 7 7 0 -300 200 R 50 50 0 0 P
+X 8 8 900 -300 200 L 50 50 0 0 P
+X 9 9 0 -400 200 R 50 50 0 0 P
+X 10 10 900 -400 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

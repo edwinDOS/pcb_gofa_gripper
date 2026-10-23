@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 8-215079-0
+D Body Features: Daisy Chain Without | Connector Profile Standard | Primary Product Color Red | Configuration Features: PCB Mount Orientation Vertical | Number of Rows 2 | Number of Positions 10 | Contact Features: PCB Contact Termination Area Plating Material Tin | PCB Contact Termination Area Plating Material Finish Matte | Contact Shape & Form Dual Beam | Contact Mating Area Plating Material Thickness 118.11  196.85 MICIN | Contact Current Rating (Max) 1 AMP | Contact Type Socket | PCB Contact Terminati
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=4-1773457-1_050_Micro_MaTch&DocType=Data%20Sheet&DocLang=English&PartCntxt=8-215079-0&DocFormat=pdf
+$ENDCMP
+#
+#End Doc Library
